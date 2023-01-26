@@ -31,6 +31,6 @@ def circulate():
 print("After circulating the values are:",circulate())
 ```
 ## Output:
-![](circulate.png)
+![](circulateeee.png)
 ## Result:
 The circulation of n values are successfully executed.
